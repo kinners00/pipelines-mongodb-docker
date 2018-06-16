@@ -1,2 +1,2 @@
 FROM mongo:latest
-RUN echo 'Build ready'
+RUN echo 'mongodb pipelines k8s veresion - build ready'
